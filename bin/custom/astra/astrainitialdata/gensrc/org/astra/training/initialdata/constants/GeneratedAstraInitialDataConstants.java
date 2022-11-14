@@ -1,7 +1,7 @@
 /*
  * ----------------------------------------------------------------
  * --- WARNING: THIS FILE IS GENERATED AND WILL BE OVERWRITTEN! ---
- * --- Generated at 14 Nov 2022 17.56.25                        ---
+ * --- Generated at 14 Nov 2022 20.21.57                        ---
  * ----------------------------------------------------------------
  */
 package org.astra.training.initialdata.constants;
